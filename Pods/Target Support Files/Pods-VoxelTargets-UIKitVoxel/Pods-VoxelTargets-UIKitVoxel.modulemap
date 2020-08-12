@@ -1,0 +1,6 @@
+framework module Pods_VoxelTargets_UIKitVoxel {
+  umbrella header "Pods-VoxelTargets-UIKitVoxel-umbrella.h"
+
+  export *
+  module * { export * }
+}

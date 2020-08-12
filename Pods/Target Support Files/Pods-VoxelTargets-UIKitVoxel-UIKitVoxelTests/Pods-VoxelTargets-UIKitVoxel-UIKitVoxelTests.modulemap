@@ -1,0 +1,6 @@
+framework module Pods_VoxelTargets_UIKitVoxel_UIKitVoxelTests {
+  umbrella header "Pods-VoxelTargets-UIKitVoxel-UIKitVoxelTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
